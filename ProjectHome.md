@@ -1,0 +1,1 @@
+These are the entries to the 2013 Grid-Based Path Planning Competition.
